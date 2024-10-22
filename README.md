@@ -1,7 +1,7 @@
 ![logo](https://github.com/sorifulislamsk/sorifulislamsk/blob/main/Untitled%20design%20(4).png)
 <h1 align="center">Hi 👋, I'm Soriful Islam Sk</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt="coding" width="400"  src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sorifulislamsk&label=Profile%20views&color=0e75b6&style=flat" alt="sorifulislamsk" /> </p>
 
