@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sorifulislamsk1@gmail.com**
 
-- 📄 Know about my experiences ([https://drive.google.com/file/d/1bcODl-sxdEmkdaTE2f9iObzXKSC84nUB/view?usp=sharing](Resume))
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1bcODl-sxdEmkdaTE2f9iObzXKSC84nUB/view?usp=sharing](https://drive.google.com/file/d/1A-4Cv5NWFFz-S4j5h0STFeR-0bCPluJH/view?usp=sharing))
 
 - ⚡ Fun fact **I think i am funny 😅**
 
