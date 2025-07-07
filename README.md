@@ -2,6 +2,12 @@
 <h1 align="center">Hi 👋, I'm Soriful Islam Sk</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="coding" width="400"  src="https://github.com/emcc2302/emcc2302/blob/main/output-onlinegiftools.gif">
+---
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=emcc2302&theme=gruvbox&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emcc2302&label=Profile%20views&color=0e75b6&style=flat" alt="emcc2302" /> </p>
 
