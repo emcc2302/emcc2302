@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python , Node Js**
 
-- 👨‍💻 All of my projects are available at [https://sorifulislamskportfolio.netlify.app/](https://sorifulislamskportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://emcc2302.github.io/soriful-islam-sk-portfolio/](https://emcc2302.github.io/soriful-islam-sk-portfolio/)
 
 - 💬 Ask me about **HTML , CSS , JS , C , C++**
 
