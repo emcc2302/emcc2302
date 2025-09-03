@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 0 * * *" # runs once a day at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -12,10 +12,14 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - uses: Platane/snk@v3   # use stable version, not @master
+      - uses: Platane/snk@v3
         with:
           github_user_name: emcc2302
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
+          snake_color: "#22c55e"      # green snake (you can change this)
+          background: "transparent"   # transparent background
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
