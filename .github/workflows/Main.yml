@@ -18,8 +18,15 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
-          snake_color: "#22c55e"      # green snake (you can change this)
-          background: "transparent"   # transparent background
+          background: "transparent"        # no background
+          color_snake: "#22c55e"           # snake color (green)
+          color_dots: "#39d353,#26a641,#006d32,#0e4429,#161b22"
+          # contribution levels:
+          #  - light green
+          #  - medium green
+          #  - dark green
+          #  - very dark green
+          #  - background (GitHub dark)
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
