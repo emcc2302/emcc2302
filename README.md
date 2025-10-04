@@ -37,5 +37,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emcc2302&" alt="emcc2302" /></p>
 
+## 📊 GitHub Contributor Stats
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=emcc2302&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/>
+</p>
+
+
 ## Watch snake eating my github contributions
 ![snake gif](https://github.com/emcc2302/emcc2302/blob/output/github-contribution-grid-snake.svg)
