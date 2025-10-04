@@ -28,7 +28,10 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://camo.githubusercontent.com/a472befa11bb4528a7122805f21bdb4ee40c835bf867e9ab49e4b1f8ea2d93e7/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4e69736861743330267468656d653d7261646963616c266e6f2d6672616d653d66616c7365266e6f2d62673d74727565266d617267696e2d773d34)
+[![trophy]
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=emcc2302&theme=radical&no-frame=true&no-bg=false&margin-w=15&column=8" alt="GitHub Trophies"/>
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emcc2302&show_icons=true&locale=en&layout=compact" alt="emcc2302" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emcc2302&show_icons=true&locale=en" alt="emcc2302" /></p>
