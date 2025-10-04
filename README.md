@@ -1,4 +1,4 @@
-![logo](https://github.com/emcc2302/emcc2302/blob/main/Soriful%20is%20currently.png)
+![logo](https://github.com/emcc2302/emcc2302/blob/main/Soriful%20is%20currently1.png)
 
 <h1 align="center">Hi 👋, I'm Soriful Islam Sk</h1>
 <h3 align="center">A passionate web developer from India</h3>
