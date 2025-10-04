@@ -37,7 +37,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emcc2302&" alt="emcc2302" /></p>
 
-## 📊 GitHub Contributor Stats
+## 🔝 Top Contributed GitHub Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=emcc2302&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/>
 </p>
