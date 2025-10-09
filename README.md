@@ -43,7 +43,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=emcc2302&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/>
 </p>
 
-<!--[![An image of @emcc2302's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emcc2302)](https://holopin.io/@emcc2302)-->
+[![An image of @emcc2302's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emcc2302)](https://holopin.io/@emcc2302)
 
 
 ## Watch snake eating my github contributions
