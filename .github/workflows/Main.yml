@@ -1,34 +1,28 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs once a day at midnight UTC
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
-
-      - uses: Platane/snk@v3
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: emcc2302
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
-          background: "dark"        # no background
-          color_snake: "#22c55e"           # snake color (green)
-          color_dots: "#39d353,#26a641,#006d32,#0e4429,#161b22"
-          # contribution levels:
-          #  - light green
-          #  - medium green
-          #  - dark green
-          #  - very dark green
-          #  - background (GitHub dark)
+            dist/github-contribution-grid-snake.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
