@@ -70,4 +70,4 @@
 
 
 ## Watch snake eating my github contributions
-![snake gif](https://github.com/emcc2302/emcc2302/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/emcc2302/emcc2302/blob/output/github-contribution-grid-snake.svg)
