@@ -21,7 +21,7 @@
 - 📄 Know about my experiences  
   [Resume](https://drive.google.com/file/d/19zG82MxqlP-i6Skko3hfZmnYhrY0lprI/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am funny 🤣😂**
+- ⚡ Fun fact **I think I am funny 🤣**
 
 ---
 
